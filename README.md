@@ -1,4 +1,4 @@
-# Design & Analysis of IPMSM using FEM [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+# Design & Analysis of Interior Permanent Magnet Synchronous Motor using Finite Element Method [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## Overview
 
-This project presents the design and FEA of a 6-pole, 54-slot IPMSM for EVs, optimized for high efficiency and torque. The design utilizes Ansys Maxwell and MATLAB, with a focus on achieving 110 kW, 215 Nm, and 95% efficiency.
+This project presents the design and FEA of a 6-pole, 54-slot IPMSM for EVs, optimized for high efficiency and torque. The design utilizes Ansys Maxwell and MATLAB, focusing on achieving 110 kW, 215 Nm, and 95% efficiency.
 
 ![IPMSM 2D View](Images/IPMSM_2D_View.png)
 
@@ -66,7 +66,7 @@ These specifications were derived from the TATA Nexon EV 2024 (LR) and comparabl
 ## Instructions to Use This Project
 
 1.  **Ansys Maxwell:**
-    * The Ansys Maxwell software was used to perform Finite Element Analysis (FEA) on the IPMSM design.
+    * The Ansys Maxwell software performed Finite Element Analysis (FEA) on the IPMSM design.
     * The FEA simulations focused on analyzing magnetic fields, torque generation, back-EMF, flux linkage, and losses (copper and iron).
     * To understand the FEA setup and results, refer to the detailed documentation provided in the `Documentation_IPMSM/` directory, specifically the "Design\_&\_Analysis\_of\_IPMSM\_using\_FEM.docx" file.
     * The documentation includes information on: Mesh details and boundary conditions, Magnetic loading calculations, Armature field calculations, Demagnetization study, Static torque calculations, Back-EMF and flux linkage calculations, Losses and efficiency calculations, Skew study, Performance mapping and Torque-speed curve generation.
@@ -95,4 +95,4 @@ The documentation and images in this project are licensed under the Creative Com
 ## Contact
 
 [Mohana Segaran B]
-[immohanasegaran30@gmail.com/https://github.com/MohanaSegaran/www.linkedin.com/in/mohana-segaran-322418215]
+[immohanasegaran30@gmail.com/[Git Hub profile](https://github.com/MohanaSegaran)/[LinkedIn profile](www.linkedin.com/in/mohana-segaran-322418215)]
